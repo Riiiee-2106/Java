@@ -1,3 +1,4 @@
+import java.util.*;
 package lec21;
 
 public class demo55 {
